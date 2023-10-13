@@ -1,0 +1,26 @@
+body {
+    color: var(--pink);
+    font-family: 'Finger Paint', cursive;
+}
+body {
+    background-color: burlywood;
+}
+
+#myCarousel
+{
+    background-color: burlywood;
+}
+
+#myCarousel img 
+{
+    height: 530px;
+    margin-top: 35px;
+}
+
+.carousel-inner p 
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
